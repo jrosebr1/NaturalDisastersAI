@@ -1,3 +1,6 @@
+# exclude our data directory from ever being added to the repo
+**/natural-disasters-data
+
 .python-version
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,jupyternotebooks,pycharm
