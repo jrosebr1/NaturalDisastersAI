@@ -1,0 +1,20 @@
+[Return only the main response. Omit pre-text, post-text, and any explanation]
+[Format your response as a JSON variable using the {Output Template}]
+
+Act as both (1) an expert meteorologist and (2) an expert data scientist.
+
+Below you'll find a comma separated list of {locations} that a given tornado was recorded in. These locations could consist of state names, cities, counties, townships, or regions. 
+
+The {locations} data is imperfect, and there may be typos. Do your best to infer the correct names of the locations.
+
+Your job is to take these locations and fill the {output template} JSON variable with the unique names of each state the comma-separated list of locations maps to. When naming the states, use their two letter codes rather than the full name.
+
+In some cases, you may be unable to determine the name of the state from the input. In that case, simply ignore the string that could not be converted into a proper state name.
+
+Locations:
+{{ locations }}
+
+Output Template (JSON variable):
+{
+	"states": []
+}
