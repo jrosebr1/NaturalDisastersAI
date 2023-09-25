@@ -1,0 +1,29 @@
+Summary
+=======
+- Ownership: This software belongs to NaturalDisasters.ai, copyrighted in 2023.
+- General Use: You're free to:
+	- Obtain and use the software.
+	- Make changes to the software.
+	- Combine it with other software.
+	- Share the software with others.
+- Restrictions:
+	- You can't use the software for projects, products, or services that make money or are intended to make money.
+	- If you want to use it for profit-making purposes, you need to get a separate license from NaturalDisasters.ai.
+- Obligations:
+	- If you share or redistribute the software, you must include the original copyright notice and the terms of this license.
+- No Warranty:
+	The software is provided "as is". This means NaturalDisasters.ai doesn't guarantee that it will always work perfectly, and they aren't responsible if something goes wrong because of the software.
+
+
+
+Full License:
+=============
+Copyright 2023 NaturalDisasters.ai
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, and publish the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+Notwithstanding the foregoing, the Software may not be used, either in whole or in part, in any project, product, or service that is intended for or results in commercial gain or profit. For the purposes of this license, "commercial gain or profit" is defined as any use of the Software by individuals, organizations, or companies for direct or indirect financial or economic benefit or advantage. If you wish to use the Software for commercial purposes, you must obtain a separate license from the copyright holder.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
