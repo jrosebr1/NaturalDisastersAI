@@ -11,3 +11,5 @@ This repo contains code for all articles published on [NaturalDisasters.ai](http
 |10/03/23|[Will NaturalDisasters.ai Ever Be Monetized?](https://naturaldisasters.ai/posts/naturaldisasters-ai-monetization/)|N/A|
 |10/05/23|[How to Heal from Money Scarcity: My Personal Mantra](https://naturaldisasters.ai/posts/heal-money-scarcity-mantra/)|N/A|
 |10/10/23|[Decoding the EM-DAT Natural Disaster Dataset Hierarchy](https://naturaldisasters.ai/posts/em-dat-dataset-hierarchy-explained/)|[Code](https://github.com/jrosebr1/NaturalDisastersAI/tree/main/em-dat-hierarchy)|
+|10/12/23|[How I'm Choosing Joy, Satisfaction, and Creative Freedom in My Daily Life](https://naturaldisasters.ai/posts/choosing-joy-satisfaction-creative-freedom-daily-life/)|N/A|
+|10/17/23|[Exploring Natural Disaster Types in the EM-DAT Dataset with Python and Pandas](https://naturaldisasters.ai/posts/exploring-em-dat-natural-disaster-types/)|[Code](https://github.com/jrosebr1/NaturalDisastersAI/tree/main/em-dat-disaster-types)|
