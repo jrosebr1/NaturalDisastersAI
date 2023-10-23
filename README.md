@@ -13,3 +13,5 @@ This repo contains code for all articles published on [NaturalDisasters.ai](http
 |10/10/23|[Decoding the EM-DAT Natural Disaster Dataset Hierarchy](https://naturaldisasters.ai/posts/em-dat-dataset-hierarchy-explained/)|[Code](https://github.com/jrosebr1/NaturalDisastersAI/tree/main/em-dat-hierarchy)|
 |10/12/23|[How I'm Choosing Joy, Satisfaction, and Creative Freedom in My Daily Life](https://naturaldisasters.ai/posts/choosing-joy-satisfaction-creative-freedom-daily-life/)|N/A|
 |10/17/23|[Exploring Natural Disaster Types in the EM-DAT Dataset with Python and Pandas](https://naturaldisasters.ai/posts/exploring-em-dat-natural-disaster-types/)|[Code](https://github.com/jrosebr1/NaturalDisastersAI/tree/main/em-dat-disaster-types)|
+|10/18/23|[Boost Creativity and Reset Your Nervous System by Laying Down for 30-60 Minutes](https://naturaldisasters.ai/posts/boost-creativity-reset-nervous-system/)|N/A|
+|10/20/23|[Raves, Relationships, and Refuge: Crafting Our Sacred Temple of Love](https://naturaldisasters.ai/posts/raves-relationships-refuge-crafting-sacred-temple-love/)|N/A|
