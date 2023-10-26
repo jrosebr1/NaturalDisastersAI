@@ -15,3 +15,5 @@ This repo contains code for all articles published on [NaturalDisasters.ai](http
 |10/17/23|[Exploring Natural Disaster Types in the EM-DAT Dataset with Python and Pandas](https://naturaldisasters.ai/posts/exploring-em-dat-natural-disaster-types/)|[Code](https://github.com/jrosebr1/NaturalDisastersAI/tree/main/em-dat-disaster-types)|
 |10/18/23|[Boost Creativity and Reset Your Nervous System by Laying Down for 30-60 Minutes](https://naturaldisasters.ai/posts/boost-creativity-reset-nervous-system/)|N/A|
 |10/20/23|[Raves, Relationships, and Refuge: Crafting Our Sacred Temple of Love](https://naturaldisasters.ai/posts/raves-relationships-refuge-crafting-sacred-temple-love/)|N/A|
+|10/24/23|[How to Plot a World Map Using Python and GeoPandas](https://naturaldisasters.ai/posts/python-geopandas-world-map-tutorial/)|[Code](https://github.com/jrosebr1/NaturalDisastersAI/tree/main/world-map-python-geopandas)|
+|10/26/23|[Reviving the Lost Love of My Childhood Self](https://naturaldisasters.ai/posts/reviving-lost-love-childhood-self-journey/)|N/A|
